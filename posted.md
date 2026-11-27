@@ -12,3 +12,4 @@
 | #8 | 2026-11-25 | 1.08w–1.08z | reels/2026-11-25_devlog08.mp4 | raw/pc/ build folders 1.08w–1.08z | none (no baked-in music; player to add a trending sound in the app) | 18147489904612960 |
 | #9 | 2026-11-26 | 1.09a–1.09c | reels/2026-11-26_devlog09.mp4 | raw/pc/ build folders 1.09a–1.09c (+ 1.09c teaser) | style: seed=2026112609 mood=epic bpm=150 key=+5 scale=2 prog=1 lead=saw bass=sq50/sync arp=broken/tri drums=half/off form=ABAC echo=0.0 | 18126435073902297 |
 | #10 | 2026-11-26 | 1.09d–1.09g | reels/2026-11-26_devlog10.mp4 | raw/pc/ build folders 1.09d–1.09g | style: seed=2026112616 mood=calm bpm=83 key=+3 scale=0 prog=2 lead=tri bass=saw/held arp=updown/sq12 drums=none/16th form=AABA echo=0.25 | 17933218788430571 |
+| #11 | 2026-11-26 | 1.09h–1.09j | reels/2026-11-26_devlog11.mp4 | raw/pc/ build folders 1.09h–1.09j | none (no baked-in music; player to add a trending sound in the app) | 17957602293282161 |
