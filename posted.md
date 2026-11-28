@@ -15,3 +15,4 @@
 | #11 | 2026-11-26 | 1.09h–1.09j | reels/2026-11-26_devlog11.mp4 | raw/pc/ build folders 1.09h–1.09j | none (no baked-in music; player to add a trending sound in the app) | 17957602293282161 |
 | #12 | 2026-11-27 | 1.09k–1.09m | reels/2026-11-27_devlog12.mp4 | raw/pc/ build folders 1.09k–1.09m | style: seed=2026112712 mood=heroic bpm=141 key=-2 scale=2 prog=3 lead=sq50 bass=saw/sync arp=updown/sq12 drums=four/16th form=AAAB echo=0.25 | 18101754725676863 |
 | #13 | 2026-11-27 | 1.09n–1.09q | reels/2026-11-27_devlog13.mp4 | raw/pc/ build folders 1.09n–1.09q | style: seed=2026112735 mood=calm bpm=83 key=-1 scale=0 prog=4 lead=sq25 bass=sq50/held arp=off/sq25 drums=four/8th form=ABAC echo=0.0 | 18115669769521761 |
+| #14 | 2026-11-27 | 1.09r–1.09u | reels/2026-11-27_devlog14.mp4 | raw/pc/ build folders 1.09r–1.09u | none (no baked-in music; player to add a trending sound in the app) | 18193813147414866 |
